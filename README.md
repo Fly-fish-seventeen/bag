@@ -1,4 +1,6 @@
 # bag
+1.会出现控件数组不存在的问题
+2.百分百，切换第二个窗体会最小化
 form1代码
 Private Sub Command1_Click()
     Unload Form1
